@@ -1,21 +1,23 @@
 # Book Store Website
 This is a book store website built using Java Spring Boot, HTML, CSS, and MySQL. It allows users to browse and purchase books online.
 
-Table of Contents
+## Table of Contents
 Features
 Installation
 Usage
 Technologies Used
 Contributing
 License
-Features
+
+## Features
 User Authentication: Users can sign up, log in, and log out securely.
 Book Browsing: Users can browse through a collection of books available for sale.
 Search Functionality: Users can search for books based on title, author, or genre.
 Shopping Cart: Users can add books to their shopping cart and proceed to checkout.
 Order Management: Users can view their order history and track the status of their orders.
 Admin Panel: Administrators can add, edit, or remove books from the inventory.
-Installation
+
+## Installation
 To run this project locally, follow these steps:
 
 Clone this repository: git clone https://github.com/your-username/book-store.git
@@ -26,19 +28,22 @@ Create a MySQL database named book_store
 Update the application.properties file with your database credentials
 Run the application: mvn spring-boot:run
 Access the website at: http://localhost:8080
-Usage
+
+## Usage
 User Access:
 Visit the website and sign up/log in to start browsing books and making purchases.
 Admin Access:
 Access the admin panel by visiting /admin and logging in with admin credentials.
 Here, administrators can manage the inventory, view orders, and update user information.
-Technologies Used
+
+## Technologies Used
 Java Spring Boot
 HTML
 CSS
 MySQL
-Contributing
+
+## Contributing
 Contributions are welcome! If you have any ideas for improvement or find any issues, feel free to open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
