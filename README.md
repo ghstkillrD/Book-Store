@@ -1,4 +1,4 @@
-## Book Store Website
+# Book Store Website
 This is a book store website built using Java Spring Boot, HTML, CSS, and MySQL. It allows users to browse and purchase books online.
 
 Table of Contents
