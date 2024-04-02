@@ -31,10 +31,10 @@ To run this project locally, follow these steps:
 
 ## Usage
 - User Access:
--- Visit the website and sign up/log in to start browsing books and making purchases.
+  - Visit the website and sign up/log in to start browsing books and making purchases.
 - Admin Access:
--- Access the admin panel by visiting /admin and logging in with admin credentials.
--- Here, administrators can manage the inventory, view orders, and update user information.
+  - Access the admin panel by visiting /admin and logging in with admin credentials.
+  - Here, administrators can manage the inventory, view orders, and update user information.
 
 ## Technologies Used
 - Java Spring Boot
